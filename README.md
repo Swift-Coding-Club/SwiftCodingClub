@@ -1,8 +1,9 @@
 # Swift Coding Club
 ## 안녕하세요, 스위프티 여러분!
-<img width="357" src="https://user-images.githubusercontent.com/16731356/205471879-92636e25-7e68-463f-9835-8fd8b15c0f18.png"><br>
+<img width="600" src="https://user-images.githubusercontent.com/16731356/205471879-92636e25-7e68-463f-9835-8fd8b15c0f18.png"><br>
 **Swift Coding Club**은 iOS 개발, Swift 배우기는 힘들다, 장벽이 높다는 오해를 해소하기 위해 만들어졌어요.<br>
-iOS 개발을 입문하시는 분들, Swift 문법을 배워보고 싶은 분들, 프로젝트가 하고 싶은 분들 등 많은 분들이 모여 네트워킹하며 함께 공부하고 있어요!
+iOS 개발을 입문하시는 분들, Swift 문법을 배워보고 싶은 분들, 프로젝트가 하고 싶은 분들 등 많은 분들이 모여<br>
+네트워킹하며 함께 공부하고 있어요!
 
 ## 지금까지 이런 걸 했어요!
 * [Swift Coding Club 1기]()
