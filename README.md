@@ -15,16 +15,16 @@ iOS 개발을 입문하시는 분들, Swift 문법을 배워보고 싶은 분들
 * ooo 0000.00.00 ~ 0000.00.00
 
 ### 운영진
-|닉네임|프로필|
-|:---:|:---:|
-|리이오|[Github profile](https://github.com/M1zz)|
-|리아|[Github profile](https://github.com/Lia316)|
-|코다|[Github profile]()|
-|로이|[Github profile](https://github.com/Roy-wonji)|
-|햄식|[Github profile](https://github.com/SukHyeon)|
-|영|[Github profile]()|
-|드루|[Github profile](https://github.com/drew105)|
-|양파|[Github profile](https://github.com/yangpa043)|
+* [리이오](https://github.com/M1zz)
+* [리아](https://github.com/Lia316)
+* [코다]()
+* [로이](https://github.com/Roy-wonji)
+* [햄식](https://github.com/SukHyeon)
+* [영]()
+* [드루](https://github.com/drew105)
+* [수빈](https://github.com/realhsb)
+* [양파](https://github.com/yangpa043)
+
 ## 더 궁금한 것이 있다면?
 [Swift Coding Club 인스타 프로필 바로가기](https://www.instagram.com/swift_coding_club_kr/)
 
